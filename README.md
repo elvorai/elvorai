@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Welcome+to+Elvor!+🚀;AI+%7C+Web3+%7C+Decentralized+Solutions;Empowering+the+Future+of+Finance+and+Trading" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Welcome+to+Elvor!+🚀;AI+%7C+Web3+%7C+Blockchain;Centralized+%26+Decentralized+Solutions+for+Finance" />
 </div>
 
 <div align="center">
-  <h3>AI | Web3 | Decentralized Solutions</h3>
-  <p>Revolutionizing finance with AI-powered trading and blockchain technology</p>
+  <h3>AI | Web3 | Blockchain</h3>
+  <p>Empowering finance with centralized and decentralized platforms</p>
 </div>
 
 
