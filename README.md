@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Welcome+to+Elvor!+🚀;AI+%7C+Web3+%7C+Decentralized+Solutions;Empowering+the+Future+of+Finance+and+Trading" />
+</div>
+
+<div align="center">
+  <h3>AI | Web3 | Decentralized Solutions</h3>
+  <p>Revolutionizing finance with AI-powered trading and blockchain technology</p>
+</div>
+
+
 ## 👋 Welcome to **Elvor**
 
 At **Elvor**, we are revolutionizing the future of finance by offering a unique blend of both **centralized** and **decentralized** solutions. We specialize in **AI-powered technologies** and **blockchain innovation**, creating platforms that cater to the evolving needs of traders, investors, and financial institutions.
